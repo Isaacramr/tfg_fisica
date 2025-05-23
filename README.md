@@ -1,0 +1,1 @@
+This repository includes the files of the TFG (End of Degree Project) in Physics, by Isaac Ramos. The main document is "FT28_Ramos_Reina_Isaac.pdf", but here one can also find the Mathematica notebook used for the project, "Spectrum Gaussian Matrices Isaac Ramos.nb" and an appendix with the proof of Proposition 4. 
